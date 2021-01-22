@@ -64,6 +64,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Challenge 4\Scripts\EnemyX.cs" />
+    <Compile Include="Assets\Challenge 4\Scripts\PlayerControllerX.cs" />
+    <Compile Include="Assets\Challenge 4\Scripts\RotateCameraX.cs" />
+    <Compile Include="Assets\Challenge 4\Scripts\SpawnManagerX.cs" />
     <Compile Include="Assets\Scripts\EnemyController.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\RotateCamera.cs" />
